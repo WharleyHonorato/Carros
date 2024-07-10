@@ -1,4 +1,5 @@
 import motos from '../mocks/listaMotos';
+import { Link } from 'react-router-dom';
 import './style4.css';
 
 export default function Moto() {
@@ -32,9 +33,12 @@ export default function Moto() {
                               <p>Diária: </p>
                               <p> {moto.diaria}</p>
                           </div>
-                                <button>Alugar</button>
+                            <Link to={`/moto/${moto.id}`}>
+                            <button>Alugar</button>
+                            </Link>
                       </div>
                   </div>
+                  
               )
           }
         )}

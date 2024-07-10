@@ -6,7 +6,7 @@ const motos = [
         categoria: 'Street',
         ano: 2021,
         diaria: 50,
-        foto: 'https://w7.pngwing.com/pngs/594/228/png-transparent-honda-cg-160-honda-cg-150-motorcycle-honda-cg125-honda-car-motorcycle-vehicle.png'
+        foto: "https://www.motonova.com.br/uploads/thumbs/662x600/motos/2023/cg-160-start/cg-160-start-vermelha-3.4-fd.png"
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ const motos = [
         categoria: 'Street',
         ano: 2021,
         diaria: 60,
-        foto: 'https://w7.pngwing.com/pngs/492/1002/png-transparent-yamaha-motor-company-yamaha-fazer-yamaha-fz16-motorcycle-auto-expo-motorcycle-exhaust-system-car-motorcycle.png'
+        foto: 'https://www.yamaha-motor.com.br/file/products/30095.BC5C00010C.condicao.desktop.jpg'
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ const motos = [
         categoria: 'Naked',
         ano: 2021,
         diaria: 100,
-        foto: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvjCXABi8t5ZGbDIm-iiaOOi1ex5-GAwVSg&s'
+        foto: 'https://www.yamaha-motor.com.br/file/products/30086.B6L600010B.condicao.desktop.jpg'
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ const motos = [
         categoria: 'Esportiva',
         ano: 2021,
         diaria: 120,
-        foto: 'https://w1.pngwing.com/pngs/841/760/png-transparent-background-design-frame-kawasaki-ninja-400-kawasaki-motorcycles-car-kawasaki-motors-pty-limited-india-kawasaki-motors-kawasaki-ninja-300-engine.png'
+        foto: "https://kawasaki.m3parts.com.br/arquivos/1671646311ddit_produto.png"
     }
 ]
 
